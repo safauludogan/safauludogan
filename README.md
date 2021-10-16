@@ -1,5 +1,3 @@
-![Mobile developer](https://www.mindinventory.com/blog/wp-content/uploads/2016/10/mobile-app-development-1024x523.jpeg)
-
 ### Hi there 👋, Safa Uludoğan
 #### Mobile developer
 I'm Safa from Turkey, and I do content on Development. I enjoy learning languages and frameworks like Android Studio with Java and Kotlin. You can check out my Google Play Store at https://play.google.com/store/apps/developer?id=BSF+Yaz%C4%B1l%C4%B1m
