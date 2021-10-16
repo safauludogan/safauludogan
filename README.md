@@ -1,12 +1,15 @@
-### Hi there 👋, Safa Uludoğan
-#### Mobile developer
-I'm Safa from Turkey, and I do content on Development. I enjoy learning languages and frameworks like Android Studio with Java and Kotlin. You can check out my Google Play Store at https://play.google.com/store/apps/developer?id=BSF+Yaz%C4%B1l%C4%B1m
+<h1 align="center">Hi 👋, I'm Safa</h1>
+<h3 align="center">Mobile developer</h3>
 
-Skills: ANDROID / JAVA / KOTLIN
+- 🔭 I’m currently working on [Kalori Sayar](https://play.google.com/store/apps/details?id=com.bsf.kalorisayar)
 
-- 🔭 I’m currently working on My own company 
-- 🌱 I’m currently learning Kotlin 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/suludogan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suludogan1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/safa-uludoğan-b06b6b116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safa-uludoğan-b06b6b116" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13669147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13669147" height="30" width="40" /></a>
+<a href="https://instagram.com/safauludogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safauludogan" height="30" width="40" /></a>
+</p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/safauludogan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/safa-uludoğan-b06b6b116/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/safauludogan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/suludogan1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13669147)  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=safauludogan)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
