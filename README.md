@@ -1,6 +1,6 @@
 # Safa Uludoğan
 #### Mobile developer
-I'm Safa from Turkey, and I do content on Development. I enjoy learning languages and frameworks like Android Studio with Java and Kotlin. You can check out my Google Play Store at https://play.google.com/store/apps/developer?id=BSF+Yaz%C4%B1l%C4%B1m
+I'm Safa from Turkey, and I do content on Development. I enjoy learning languages and frameworks like Android Studio with Java and Kotlin. You can check out my Google Play Store at <a href="https://play.google.com/store/apps/developer?id=BSF+Yaz%C4%B1l%C4%B1m">My PlayGoogle</a> 
 
 - 🔭 I’m currently working on [Kalori Sayar](https://play.google.com/store/apps/details?id=com.bsf.kalorisayar)
 
