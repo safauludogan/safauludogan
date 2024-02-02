@@ -9,7 +9,7 @@ I'm Safa from Turkey, and I do content on Development. I enjoy learning language
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/suludogan1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suludogan1" height="30" width="40" /></a>
+<a href="https://x.com/safauludogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suludogan1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/safauludogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safa-uludoğan-b06b6b116" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13669147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13669147" height="30" width="40" /></a>
 <a href="https://instagram.com/safauludogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safauludogan" height="30" width="40" /></a>
